@@ -1,5 +1,6 @@
 # KOSS-Task
-TOOLS USED:
+
+# TOOLS USED:
 
 
 Argparse:
@@ -16,7 +17,7 @@ PyGithub:
 
 -> PyGithub helps you GET specific information with limited lines of code
 
-THE PROCESS:
+# THE PROCESS:
 
 Making a Command line program:
 
