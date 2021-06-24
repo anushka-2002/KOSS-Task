@@ -16,10 +16,11 @@
 
 ## THE PROCESS:
 
-I started the task by learning what an API really is. Once I was had gained some idea on this I started reading about GET requests method. Python was a popular back-end language that I was a little familiar with. I decided to use python when I found the PyGithub library which was very straightforward and let you access the Github REST API.
-First I started searching for an easy way to make a command line program with python. I went with Argparse as it was in the standard library and pretty easy to learn and use in simple program line codes. Then I tried to understand what parsering was.
-For making this command line program as I did not require a lot of knowledge about the Argparse library so I stuck to the basics and learned how to make ArgumentParser objects and use them to add arguments and use those arguments in the code.
-Once I was done with the basic command line program I went on to read more about PyGithub. I learnt how to make a Github object and then found out how to GET a user with a username and get any repository of the user with the repository name using get_user and get_repo. Then I continued to learn more about PyGithub to access user details and repository details.
+- I started the task by learning what an API really is. Once I was had gained some idea on this I started reading about GET requests method. 
+- Python was a popular back-end language that I was a little familiar with. I decided to use python when I found the PyGithub library which was very straightforward and let you access the Github REST API.
+- First I started searching for an easy way to make a command line program with python. I went with Argparse as it was in the standard library and pretty easy to learn and use in simple program line codes. Then I tried to understand what parsering was.
+- For making this command line program as I did not require a lot of knowledge about the Argparse library so I stuck to the basics and learned how to make ArgumentParser objects and use them to add arguments and use those arguments in the code.
+- Once I was done with the basic command line program I went on to read more about PyGithub. I learnt how to make a Github object and then found out how to GET a user with a username and get any repository of the user with the repository name using get_user and get_repo. Then I continued to learn more about PyGithub to access user details and repository details.
 
 #### Making a Command line program:
 
